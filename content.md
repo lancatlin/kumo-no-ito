@@ -11,7 +11,7 @@
 
 ---
 
-<!-- .slide: data-background="./image/machi.jpg" -->
+<!-- .slide: data-background="./image/inazuma-eleven.jpg" -->
 
 ---
 
@@ -82,6 +82,10 @@
 <!-- .slide: data-background="image/fo.bmp" data-background-opacity="0.7" -->
 
 ### 無能為力 <!-- .element: class="fragment" -->
+
+---
+
+<!-- .slide: data-background="./image/machi.jpg" -->
 
 ---
 
