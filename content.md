@@ -72,3 +72,51 @@
 佛教：不論做什麼事，都會得到對應的結果  <!-- .element: class="fragment" -->
 
 ## 物理定律 / 遊戲機制 <!-- .element: class="fragment" -->
+
+---
+
+## 故事中的釋迦牟尼是誰？
+
+---
+
+<!-- .slide: data-background="image/fo.bmp" data-background-opacity="0.7" -->
+
+### 無能為力 <!-- .element: class="fragment" -->
+
+---
+
+為什麼人們總是將釋迦牟尼視作佛教裡的「神」呢？
+
+## 佛教的世俗化 <!-- .element: class="fragment" -->
+
+---
+
+「佛像」本來並不存在
+
+西元一世紀，為了與其他信仰競爭  
+
+佛教開始出現視覺性、聽覺性的內容  
+
+---
+
+### 《妙法蓮華經》
+
+佛塔  
+佛像  
+捐獻  
+
+-- *Peter Frankopan：The Silk Roads p.56*
+
+---
+
+### 佛教被扭曲？
+
+## 普渡眾生 <!-- .element: class="fragment" -->
+
+---
+
+## 釋迦牟尼的神格化
+
+### 因果報應是一個「物理定律」<!-- .element: class="fragment" -->
+
+---
