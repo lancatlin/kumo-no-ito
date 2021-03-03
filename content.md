@@ -21,9 +21,9 @@
 
 ## 宗教發展脈絡
 
-- 泛靈信仰 <!-- .element: class="fragment" -->  
-- 多神信仰 <!-- .element: class="fragment" -->  
-- 一神信仰 <!-- .element: class="fragment" -->  
+- 狩獵——採集文明：泛靈信仰 <!-- .element: class="fragment" -->  
+- 農業文明：多神信仰 <!-- .element: class="fragment" -->  
+- 農業文命：一神信仰 <!-- .element: class="fragment" -->  
 
 ---
 
@@ -226,4 +226,4 @@
 
 ### 他就失去了對其他生命的慈悲之心 
 
-由慈悲之心構築的蜘蛛絲也因此斷裂
+**由慈悲之心構築的蜘蛛絲才因此斷裂**
